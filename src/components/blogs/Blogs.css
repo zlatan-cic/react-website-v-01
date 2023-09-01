@@ -1,0 +1,16 @@
+.site-main {
+  padding: 2.5rem 0;
+}
+
+.blogs {
+  font-size: 5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.post-feed {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-between;
+}

@@ -8,12 +8,7 @@
   color: #FFF;
 }
 
-.container {
-  /* background-color: #222; */
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 0 2.8rem;
-}
+
 
 .site-logo-social {
   display: flex;

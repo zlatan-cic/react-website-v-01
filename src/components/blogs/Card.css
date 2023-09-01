@@ -1,0 +1,35 @@
+.post-card {
+  text-decoration: none;
+  color: #000;
+}
+.post-header-card .post-image-card {
+  height: 250px;
+  width: 100%;
+  background-repeat:no-repeat;
+  background-size: cover;
+  
+}
+
+.post-header-card {
+  /* background-color: aqua; */
+}
+
+.post-header-card .post-title-card {
+  font-size: 2rem;
+  margin-top: 5px;
+}
+
+.post-text-card {
+  /* background-color: aqua; */
+  margin: 5px 0;
+  line-height: 1.5;
+  font-size: 1rem;
+  color: #111;
+}
+
+.post-footer-card {
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+}
